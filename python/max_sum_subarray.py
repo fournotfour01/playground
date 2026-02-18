@@ -1,5 +1,3 @@
-
-
 def get_user_input_intList_size()->(list[int], int):
   list_str = input("Enter the list of intergers comma seperated:")
   size = input("Enter the size of subarray:")
